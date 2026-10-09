@@ -1,11 +1,14 @@
+
 {
-  "description": "Personal website for AWIS",
-  "domain": "awis",
   "owner": {
     "username": "shahid103045",
     "email": "shahidchoudhary03045@gmail.com"
   },
-  "record": {
-    "CNAME": "shahid103045.github.io"
-  }
+  "target": {
+    "CNAME": {
+      "name": "awis",
+      "value": "shahid103045.github.io"
+    }
+  },
+  "proxied": false
 }
