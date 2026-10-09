@@ -1,0 +1,11 @@
+{
+  "description": "Personal website for AWIS project - Zoho Mail",
+  "domain": "awis",
+  "owner": {
+    "username": "shahid103045",
+    "email": "shahidchoudhary03045@gmail.com"
+  },
+  "record": {
+    "CNAME": "shahid103045.github.io"
+  }
+}
